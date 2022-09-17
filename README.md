@@ -19,15 +19,15 @@ BallMotionControler is a JavaFX application in which users can control the ball 
 
 It accesses ball coordinates from a text file and displays them on the screen and the user can move the ball around the screen which will indeed change the coordinates of the call in the text file. The coordinates of the ball are also displayed at the bottom of the window.
 
-
-![Ball Coordinates](https://user-images.githubusercontent.com/87806021/189822627-a7eac9d6-37dc-44cb-9e00-b5ff7c3d19f4.gif)
+![BallCoordinates](https://user-images.githubusercontent.com/87806021/190840536-759b683b-e35a-4c8a-a9f4-6569e1820c94.gif)
 
 
 ## Ball Motion
 
 The ball is set to motion at 1x speed, the user can increase the speed of the ball by 0.5x speed by pressing up the arrow key ⬆️ and decrease the speed of the ball by 0.5x speed by pressing down the arrow ⬇️. The user can also pause the motion of the ball by clicking the mouse on the screen.
 
-![Ball Motion](https://user-images.githubusercontent.com/87806021/189823585-439f19b7-3018-4a79-ba70-b9445cdbf17c.gif)
+![BallMotion](https://user-images.githubusercontent.com/87806021/190840540-b792ca90-7a88-4fa8-8807-b8cb5949d863.gif)
+
 
 ## Tech Stack
 
