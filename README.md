@@ -38,6 +38,10 @@ The ball is set to motion at 1x speed, the user can increase the speed of the ba
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
+## Support
+
+For support, email utkrist.shrestha12@gmail.com
+
 ## 🔗 Links
 
 [![sourcecode](https://img.shields.io/badge/source_code-FF000?style=for-the-badge&logo=java&logoColor=white)](https://github.com/utkriststha/BallMotionControler)
